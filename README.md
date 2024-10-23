@@ -1,8 +1,10 @@
 # e-Commerce_Data_Analysis
 
-# Analyzed large-scale Brazilian e-commerce data to extract valuable business insights related to customer behavior, sales trends, and seller performance.
+# Analyzed large-scale Brazilian e-commerce data to extract valuable business insights on customer behaviour, sales trends, and seller performance.
 #  Imported and integrated multiple datasets (customers, products, sellers, reviews, orders) using SQL.
 #  Performed data cleaning by identifying and removing duplicates, handling missing values, and ensuring referential integrity.
+
+# Data Utilized: Brazilian e-commerce dataset. Created fact and dimension tables for execution. 
 
 # Key Queries & Insights Generated:
 # Calculated top product categories by sales, average review scores, and product weight.
@@ -12,6 +14,6 @@
 
 # Technologies Used: SQL, PostgreSQL, Data Aggregation, Joins, Data Transformation
 
-# Outcome: Provided actionable insights on customer behavior, product sales, and regional trends to inform decision-making for e-commerce strategies.
+# Outcome: Provided actionable insights on customer behaviour, product sales, and regional trends to inform decision-making for e-commerce strategies.
 
 
